@@ -1,0 +1,1 @@
+goodbyedpi.exe -3 -p -r -s -e 40

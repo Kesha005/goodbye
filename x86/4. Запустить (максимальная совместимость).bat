@@ -1,0 +1,1 @@
+goodbyedpi.exe -1 -a
